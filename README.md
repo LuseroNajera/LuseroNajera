@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Lusero. 
+As a Database and Development Intern for a non-profit organization, I effectively coordinated volunteer placements, ensuring accurate and up-to-date information in the system, actively contributing to process improvements, extracting insightful reports, and implementing efficient file management practices to enhance team productivity.
 
-<!--
-**LuseroNajera/LuseroNajera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Throughout my internship and education, I have acquired the skills to:
+- Develop dashboards and reports using Tableau and Salesforce.
+- Conduct data analysis and reporting using Google Sheets and Excel.
+- Query data using SQL in school projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How to reach me:
+    Email: lusero.najera.ln@gmail.com
+    LinkedIn: www.linkedin.com/in/lusero-najera
+    
