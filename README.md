@@ -8,7 +8,7 @@ Database and Development Intern for a non profit organization. Through both my i
   - Query data using SQL in school projects.
   - Ensuring accurate and up-to-date information in the database system.
 
-💠Projects
+💠[Projects](https://github.com/LuseroNajera/Projects/blob/main/README.md)
   - SQL with Oracle APEX 
   - Salesforce Reports/Dashboard
   - SAP Dashboard
