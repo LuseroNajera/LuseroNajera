@@ -12,6 +12,7 @@ Database and Development Intern for a non profit organization. Through both my i
   - SQL with Oracle APEX 
   - Salesforce Reports/Dashboard
   - SAP Dashboard
+  - Power BI 
 
 💠How to reach me:
   - Email: lusero.najera.ln@gmail.com
