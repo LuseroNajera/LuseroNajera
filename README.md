@@ -1,6 +1,6 @@
 ### Hi, I'm Lusero. ⭐
 
-Database and Development Intern for a non profit organization. Through both my internship and academic coursework, I have gained hands-on experience and expertise in database management, reports, data analytics, and data visualizations.
+Passionate about leveraging data to drive organizational success. Experienced in database management, ETL processes, data assurance, and database administration within the context of a non-profit organization. Proficient in crafting insightful reports and data visualizations to aid decision-making.
 
 💠Skills acquired: 
   - Develop dashboards and reports using SAP and Salesforce.
